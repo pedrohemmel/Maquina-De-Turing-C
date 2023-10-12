@@ -12,8 +12,9 @@ abcd
 3 x x D 1
 4 y y D 4
 4 - - D 5
-4
+5
 aabb
 aaabbb
 abab
 bbaa
+aaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbb
