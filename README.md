@@ -1,4 +1,8 @@
 # mtc_trabalho_TC
+
+## Apresentação em vídeo no link a seguir
+[Clique aqui para assistir](https://studio.youtube.com/channel/UC92pkZkpJOpyPXt3iguxDvQ/videos/upload?d=ud&filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D)
+
 ## Objetivo
 
 Desenvolva um programa que simule uma Máquina de Turing genérica. O programa receberá como entrada um arquivo de texto com a seguinte estrutura:
