@@ -34,7 +34,7 @@ char verifyDirection(char direction, char word[64], int wordIndex) {
       return 'E';
     } 
   }
-  printf("Não consigo mais decrementar!");
+  printf("Não consigo mais decrementar ou incrementar!");
   return 'N';
 }
 
