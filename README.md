@@ -1,9 +1,7 @@
 # mtc_trabalho_TC
 ## Objetivo
 
-A seguir está o texto reescrito:
-
-"Desenvolva um programa que simule uma Máquina de Turing genérica. O programa receberá como entrada um arquivo de texto com a seguinte estrutura:
+Desenvolva um programa que simule uma Máquina de Turing genérica. O programa receberá como entrada um arquivo de texto com a seguinte estrutura:
 
 1. Na primeira linha, os símbolos do alfabeto de entrada (Σ) devem ser especificados, com letras em minúsculo, sem espaços entre eles, e concatenados com símbolos do alfabeto da fita (Γ). Não deve haver o símbolo de espaço em branco ⊔. Limite de 30 símbolos na primeira linha.
 
@@ -19,7 +17,19 @@ Exemplo:
 ```
 abxy
 5
-11 1axD2 1yyD4 1--D5 2aaD2 2yyD2 2byE3 3aaE3 3yyE3 3xxD1 4yyD4 4--D5 4
+11
+1 a x D 2
+1 y y D 4
+1 - - D 5
+2 a a D 2
+2 y y D 2
+2 b y E 3
+3 a a E 3
+3 y y E 3
+3 x x D 1
+4 y y D 4
+4 - - D 5
+4
 aabb
 aaabbb
 abab
@@ -34,4 +44,4 @@ Exemplo de Saída:
 2: aaabbb OK
 3: abab not OK
 4: bbaa not OK
-```"
+```
