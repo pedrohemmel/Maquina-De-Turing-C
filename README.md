@@ -1,7 +1,7 @@
 # mtc_trabalho_TC
 
 ## Apresentação em vídeo no link a seguir
-[Clique aqui para assistir](https://studio.youtube.com/channel/UC92pkZkpJOpyPXt3iguxDvQ/videos/upload?d=ud&filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D)
+[Clique aqui para assistir](https://youtu.be/IQuMPt585wc)
 
 ## Objetivo
 
