@@ -1,4 +1,4 @@
-# mtc_trabalho_TC
+# Máquina de Turing em C
 
 ## Apresentação em vídeo no link a seguir
 [Clique aqui para assistir](https://youtu.be/IQuMPt585wc)
